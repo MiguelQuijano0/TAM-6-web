@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TAM-6-web</string>
+    <string name="txt_web">Ingresa al sitio web</string>
+    <string name="BotonIr">Ir al sitio</string>
+    <string name="BotonCerrar">Cerrar</string>
+</resources>
